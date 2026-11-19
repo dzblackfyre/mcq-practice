@@ -2,7 +2,7 @@
 
 A shared bank of multiple-choice questions that your team's admins fill and every member practises from: course by course, in spaced-repetition revision, and in timed exams.
 
-Inspired by https://cramqcm.app
+Inspired by 
 
 Built with [oss.new](https://oss.new) for [EveryApp](https://github.com/every-app/every-app).
 
